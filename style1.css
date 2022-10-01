@@ -57,7 +57,10 @@ header
     padding-top: 20px;
     margin-right: 20px;
 }
-
+a
+{
+    color: white;
+}
 .material h1{
     
     font-weight: 700;
@@ -204,6 +207,7 @@ header
 }
 .carousel
 {
+    text-align: center;
     background:#b3ffb3;
 }
 .carousel-item
@@ -214,6 +218,17 @@ header
 .testimonial-image
 {
     border-radius: 100%;
+    width: 20%;
+    margin: 20px;
+}
+.h3
+{
+    background-color: black;
+    text-align: center;
+}
+.testimonial-image1
+{
+    /* border-radius: 100%; */
     width: 20%;
     margin: 20px;
 }
