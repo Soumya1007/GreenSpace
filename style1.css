@@ -165,7 +165,7 @@ a
 {
     position: relative;
     /* background:black; */
-    background: #b3ffb3;
+    background: white;
     text-align: center;
 }
 .last-part h1{
@@ -176,7 +176,7 @@ a
     padding-bottom: 60px;
     margin: 0;
     color: black;
-    background: #b3ffb3;
+    background: white;
     
 }
 .btn2
@@ -208,12 +208,13 @@ a
 .carousel
 {
     text-align: center;
-    background:#b3ffb3;
+    background:black;
 }
 .carousel-item
 {
     text-align: center;
     padding: 7% 15%;
+    color: #fff;
 }
 .testimonial-image
 {
@@ -236,12 +237,13 @@ a
 {
     padding: 3.5% 10%;
     text-align: center;
-    color: white;
-    background: black;
+    color: black;
+    background: white;
 }
 
  .social
 {
     font-size: x-large;
 margin:1%;
+color: black;
 }
