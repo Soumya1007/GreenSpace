@@ -15,7 +15,7 @@ body
    position: relative;
     text-align: center;
     color: white;
-    background: linear-gradient(rgb(40, 42, 53, 0.90),rgba(40, 53, 44, 0.9)),url(green.jpg);
+    background: linear-gradient(rgb(40, 42, 53, 0.90),rgba(40, 53, 44, 0.9)),url(/public/images/green.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -122,7 +122,7 @@ a
 {
     position: relative;
      text-align: center;
-    background: url(plant-pic.jpg);
+    background: url(/public/images/plant-pic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -147,7 +147,7 @@ a
 {
     
     text-align: center;
-    background: url(decor.jpg);
+    background: url(/public/images/decor.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
